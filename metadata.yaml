@@ -1,11 +1,14 @@
 _repo: The-Yellow-Typhoon_56945
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Grefé, Will
     alias: Grefe, Will
     gutenberg_agent_id: '9414'
     url: http://www.gutenberg.org/2009/agents/9414
+covers:
+- cover_type: archival
+  image_path: 56945-h/images/cover.jpg
 creator:
   author:
     agent_name: MacGrath, Harold
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/750
     wikipedia: http://en.wikipedia.org/wiki/Harold_MacGrath
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56945#The-Yellow-Typhoon
 gutenberg_issued: '2018-04-08'
 gutenberg_type: Text
 identifiers:
